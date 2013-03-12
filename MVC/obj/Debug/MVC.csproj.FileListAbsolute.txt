@@ -1,0 +1,126 @@
+E:\Code\Temp\Project\Project\MVC\MVC\bin\MVC.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\MVC.pdb
+E:\Code\Temp\Project\Project\MVC\MVC\bin\Antlr3.Runtime.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\DotNetOpenAuth.AspNet.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\DotNetOpenAuth.Core.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\DotNetOpenAuth.OAuth.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\DotNetOpenAuth.OpenId.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\EntityFramework.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\Newtonsoft.Json.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Net.Http.Formatting.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.Helpers.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.Http.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.Http.WebHost.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.Mvc.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.Optimization.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.Razor.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.WebPages.Deployment.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.WebPages.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.WebPages.Razor.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\WebGrease.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\WebMatrix.Data.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\WebMatrix.WebData.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\EntityFramework.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\Newtonsoft.Json.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Net.Http.Formatting.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.Helpers.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.Http.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.Http.WebHost.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.Mvc.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.Razor.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.WebPages.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.WebPages.Deployment.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\System.Web.WebPages.Razor.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\WebMatrix.Data.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\WebMatrix.WebData.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\DotNetOpenAuth.AspNet.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\DotNetOpenAuth.Core.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\DotNetOpenAuth.OAuth.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\DotNetOpenAuth.OpenId.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\EntityFramework.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\System.Web.Helpers.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\System.Web.Http.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\System.Web.Mvc.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\System.Web.Optimization.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\System.Web.Razor.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\System.Web.WebPages.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\WebMatrix.Data.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\bin\ru\WebMatrix.WebData.resources.dll
+E:\Code\Temp\Project\Project\MVC\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+E:\Code\Temp\Project\Project\MVC\MVC\obj\Debug\MVC.dll
+E:\Code\Temp\Project\Project\MVC\MVC\obj\Debug\MVC.pdb
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\MVC.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\MVC.pdb
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\Antlr3.Runtime.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\DotNetOpenAuth.Core.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\EntityFramework.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\Newtonsoft.Json.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.Helpers.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.Http.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.Mvc.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.Optimization.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.Razor.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.WebPages.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\WebGrease.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\WebMatrix.Data.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\WebMatrix.WebData.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\EntityFramework.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\Newtonsoft.Json.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.Helpers.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.Http.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.Mvc.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.Razor.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.WebPages.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\WebMatrix.Data.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\WebMatrix.WebData.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\DotNetOpenAuth.Core.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\EntityFramework.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\System.Web.Http.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\obj\Debug\MVC.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\Project\MVC\MVC\obj\Debug\MVC.pdb
